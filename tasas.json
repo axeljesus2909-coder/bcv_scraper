@@ -1,13 +1,13 @@
 {
-  "usd": 911.6243,
-  "eur": 1009.34130871,
-  "usd_bs": "911,62",
-  "eur_bs": "1.009,34",
-  "usd_exacta": "911,62430000",
-  "eur_exacta": "1.009,34130871",
-  "fecha_valor": "2026-11-13",
-  "fecha_valor_texto": "Viernes, 13 Noviembre 2026",
+  "usd": 914.0218,
+  "eur": 1010.56078251,
+  "usd_bs": "914,02",
+  "eur_bs": "1.010,56",
+  "usd_exacta": "914,02180000",
+  "eur_exacta": "1.010,56078251",
+  "fecha_valor": "2026-11-16",
+  "fecha_valor_texto": "Lunes, 16 Noviembre 2026",
   "fuente": "https://www.bcv.org.ve/glosario/cambio-oficial",
-  "obtenido_en": "2026-11-13T15:51:46-04:00",
-  "actualizado_texto": "13/11/2026 15:51:46"
+  "obtenido_en": "2026-11-13T16:50:47-04:00",
+  "actualizado_texto": "13/11/2026 16:50:47"
 }
